@@ -17,11 +17,11 @@ Maven, Eclipse e etc
 4 - Selecione a opção "I have an existing project"
 
 5 - no CMD digite o que o bitckut pedir
-*git remote add origin git@bitbucket.org:..nameuser../..namerepositorio..
-*git push -u origin --all # pushes up the repo and its refs for the first time
-*git status
-*git add .
-*git commit -m"meu primeiro commit"
-*git push -u origin --all
+- git remote add origin git@bitbucket.org:..nameuser../..namerepositorio..
+- git push -u origin --all # pushes up the repo and its refs for the first time
+- git status
+- git add .
+- git commit -m"meu primeiro commit"
+- git push -u origin --all
 
 /-  http://www.mateuspaduaweb.com.br/versionando-com-o-git-utilizando-o-bitbucket-como-repositorio-remoto/ -/

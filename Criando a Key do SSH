@@ -12,3 +12,6 @@ Criando a Key do SSH
   
 3 - No Bitbucket ou GitHub vá na tela de adicionar a SSH key
 4 - Abra o arquivo "id_rsa.pub" que foi criado e copie o que está lá para a key da janela aberta(bitbucket ou github)
+
+
+https://www.youtube.com/watch?v=_Ci1q53DgvY

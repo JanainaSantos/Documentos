@@ -1,0 +1,14 @@
+Criando a Key do SSH
+
+1 - Abra o prompt Git Bash
+2 - Digite
+    - cd ~/.ssh
+    - ssh-keygen -t rsa -C "exemplo@gmail.com"
+    - De um Enter (quando o texto aparecer "Enter file in which to save the key (/c/Users/teste/.ssh/id_rsa):")
+    - Digite uma senha (quando o texto aparecer "Enter passphrase (empty for no passphrase):"
+    - Digite uma senha (quando o texto aparecer "Enter same passphrase again:"
+    - cd ~/.ssh
+    - ls (verifica se os arquivos "id_rsa" e "id_rsa.pub" foram criados. Se aparecer o nome quer dizer que sim)
+  
+3 - No Bitbucket ou GitHub vá na tela de adicionar a SSH key
+4 - Abra o arquivo "id_rsa.pub" que foi criado e copie o que está lá para a key da janela aberta(bitbucket ou github)
